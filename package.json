@@ -1,0 +1,30 @@
+{
+    "name": "gr1-b16-frontend-project",
+    "version": "1.0.0",
+    "description": "backend del proyecto WeReserve Gr1",
+    "main": "index.js",
+    "scripts": {
+        "app": "nodemon app.js",
+        "test": "echo\"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IngLuisNavas/Gr1-B16-frontend-project.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/IngLuisNavas/Gr1-B16-frontend-project/issues"
+    },
+    "homepage": "https://github.com/IngLuisNavas/Gr1-B16-frontend-project#readme",
+    "dependencies": {
+        "app": "^0.1.0",
+        "express": "^4.17.1",
+        "mongoose": "^6.0.13",
+        "run": "^1.4.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
