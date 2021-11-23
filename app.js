@@ -29,6 +29,7 @@ app.listen(1600, () => {
 let personas = [{ nombre: "Laura Marcela", apellido: "Torres Diaz", edad: "21" },
     { nombre: "Jesus Emel", apellido: "Gomez Gomez", edad: "31" },
     { nombre: "Luis Eduardo", apellido: "Jerez Ruiz", edad: "33" },
-
+    { nombre: "Ana Maria", apellido: "Luna Mendez", edad: "40" },
+    { nombre: "Lidia", apellido: "Perez Pico", edad: "33" },
 
 ];
